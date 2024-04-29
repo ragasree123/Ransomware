@@ -21,7 +21,7 @@ Monitoring
 
 Detection
 ----------------------------------------
-1. Run the Detect_ransomware.py file to detect the chnages along with time and username
+1. Run the Detect_ransomware.py file to detect the changes along with time and username
 
 Mitigation
 ----------------------------------------
